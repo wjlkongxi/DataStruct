@@ -7,3 +7,4 @@ void TwoWayInsertSort(int *ar, int left, int right)
 }
 
 #endif /* SORT */
+
